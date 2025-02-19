@@ -1,1 +1,1 @@
-# Lsb-Image-Stenography
+# Lsb-Image-Steganography
